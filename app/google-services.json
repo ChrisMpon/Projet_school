@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "359075812112",
+    "firebase_url": "https://my-application-2d583.firebaseio.com",
+    "project_id": "my-application-2d583",
+    "storage_bucket": "my-application-2d583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359075812112:android:bf3ce5bee43d200926cb95",
+        "android_client_info": {
+          "package_name": "com.example.dsandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359075812112-fsveui8i0iu7lv1bm3054kjtfoetmoo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdupHZ49L_a-fUTwuqe2oh3MSRExAb97w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359075812112-fsveui8i0iu7lv1bm3054kjtfoetmoo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359075812112:android:f7880417c752f95c26cb95",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359075812112-fsveui8i0iu7lv1bm3054kjtfoetmoo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdupHZ49L_a-fUTwuqe2oh3MSRExAb97w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359075812112-fsveui8i0iu7lv1bm3054kjtfoetmoo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359075812112:android:57f2e4a577721d3c26cb95",
+        "android_client_info": {
+          "package_name": "com.example.schoolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359075812112-fsveui8i0iu7lv1bm3054kjtfoetmoo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdupHZ49L_a-fUTwuqe2oh3MSRExAb97w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359075812112-fsveui8i0iu7lv1bm3054kjtfoetmoo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
